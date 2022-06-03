@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aminah</h1>
+<img  align ="center" src ="![Invite](https://user-images.githubusercontent.com/102968032/171775134-9fc7996b-30d1-487c-8d50-e141642e3b7b.png)"/>
+
 <h3 align="center">A animated frontend developer from Philadelphia</h3>
 
 - 🔭 I’m currently working on **A full-stack Pet Adoption Application**
